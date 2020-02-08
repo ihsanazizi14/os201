@@ -1,0 +1,4 @@
+Nama : Muhammad Ihsan Azizi
+NPM : 1806186774
+
+Saya sudah mencoba semua command bash pada file yang diperintahkan pada demo Week01.
