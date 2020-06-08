@@ -1,6 +1,7 @@
 ## OS201 Ihsanazizi14
 
 Muhammad Ihsan Azizi | 1806186774
+---
 
 <img src="ihsan.jpg" width="256">
 
