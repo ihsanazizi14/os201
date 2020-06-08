@@ -1,0 +1,38 @@
+Script started on Mon 08 Jun 2020 10:09:54 PM WIB
+muhammad.ihsan83@badak:~$ PS1="$ "
+$ echo $GitHubUser
+ihsanazizi14
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-221018-de5b-muhammad.ihsan83/>
+$ PS1="\$(eval \$PSTAMP)"
+200608-221023-c279-muhammad.ihsan83/> echo -e $CEKSAYA
+ihsanazizi14 ZCZCSCRIPTSTART 200606-191704 ihsanazizi14
+ihsanazizi14 ihsanazizi14 200606-191803-44d6-muhammad.ihsan83/ 200606-191803 SEQOK SUMOK 44d66d14
+ihsanazizi14 ihsanazizi14 200606-191846-f8cd-muhammad.ihsan83/ 200606-191846 SEQOK SUMOK f8cdc4e4
+ihsanazizi14 ihsanazizi14 200606-191901-04db-muhammad.ihsan83/ 200606-191901 SEQOK SUMOK 04dbf84f
+ihsanazizi14 ihsanazizi14 200606-191939-3dad-muhammad.ihsan83/ 200606-191939 SEQOK SUMOK 3dad766
+ihsanazizi14 ZCZCSCRIPTSTOP 200606-192027 SEQOK
+
+200608-221032-43ca-muhammad.ihsan83/> echo -e $CEKSEBELA1
+ihsanazizi14 ZCZCSCRIPTSTART 200606-151044 imamsetyo96
+ihsanazizi14 imamsetyo96 200606-151204-3d48-imam.setyo/ 200606-151204 SEQOK SUMOK 3d48d0aa
+ihsanazizi14 imamsetyo96 200606-151212-0adf-imam.setyo/ 200606-151212 SEQOK SUMOK 0adf9e85
+ihsanazizi14 imamsetyo96 200606-151220-d385-imam.setyo/ 200606-151220 SEQOK SUMOK d3857a00
+ihsanazizi14 imamsetyo96 200606-151233-3ddb-imam.setyo/ 200606-151233 SEQOK SUMOK 3ddb90f2
+ihsanazizi14 imamsetyo96 200606-151241-88d4-imam.setyo/ 200606-151241 SEQOK SUMOK 88d4f173
+ihsanazizi14 ZCZCSCRIPTSTOP 200606-151322 SEQOK
+
+200608-221037-0ced-muhammad.ihsan83/> echo -e $CEKSEBELA2
+ihsanazizi14 ZCZCSCRIPTSTART 200601-125425 iqrar99
+ihsanazizi14 iqrar99 200601-125505-e0e5-iqrar99/ 200601-125505 SEQOK SUMOK e0e56190
+ihsanazizi14 iqrar99 200601-125513-a08f-iqrar99/ 200601-125513 SEQOK SUMOK a08fd5ab
+ihsanazizi14 iqrar99 200601-125519-8dad-iqrar99/ 200601-125519 SEQOK SUMOK 8dad06d7
+ihsanazizi14 iqrar99 200601-125529-a769-iqrar99/ 200601-125529 SEQOK SUMOK a7699551
+ihsanazizi14 ZCZCSCRIPTSTOP 200601-125536 SEQOK
+
+200608-221044-14a6-muhammad.ihsan83/> exit
+exit
+
+Script done on Mon 08 Jun 2020 10:10:56 PM WIB
