@@ -21,5 +21,5 @@ Saya membuat _pages_ ini sebagai syarat kelulusan UAS Tahap 1 agar bisa melanjut
 
 ---
 ```markdown
-Berikut saya lampirkan link-link berguna seputar Sistem Operasi : [Link](URLs/)
+Berikut saya lampirkan link-link berguna seputar Sistem Operasi : [**Url**](https://ihsanazizi14.github.io/os201/URLs).
 ```
