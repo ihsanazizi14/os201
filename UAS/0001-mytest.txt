@@ -1,14 +1,14 @@
 Script started on Sat 06 Jun 2020 07:17:04 PM WIB
-muhammad.ihsan83@badak:~$ PS1="$ "
+]0;muhammad.ihsan83@badak: ~muhammad.ihsan83@badak:~$ PS1="$ "
 $ echo $GitHubUser
 ihsanazizi14
-$
+$ 
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$
+$ 
 "$ eval $PSTAMP
-200606-191803-44d6-muhammad.ihsan83/>
-$
+200606-191803-44d6-muhammad.ihsan83/> 
+$ 
 $ PS1="\$(eval \$PSTAMP)"
 200606-191846-f8cd-muhammad.ihsan83/> date
 Sat Jun  6 19:19:01 WIB 2020
