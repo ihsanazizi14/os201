@@ -1,0 +1,115 @@
+Muhammad Ihsan Azizi/A/1806186774/ihsanazizi14
+
+1) CATATAN SINGKAT PELAKSANAAN MATA AJAR OS SELAMA SEMESTER INI
+===============================================================
+Pelaksanaan mata ajar OS selama semester ini dilakukan dengan dua metode. Yang pertama, dilakukan dengan metode tatap muka seperti kuliah pada umumnya, yang berlangsung di awal-awal semester sampai UTS. Setiap pertemuannya, dosen selalu menjelaskan materi-materi terkait, membahas soal-soal tahun lalu, ataupun membahas demo-demo yang sudah terdapat dalam server Badak. Mahasiswa juga diharuskan mengerjakan log secara rutin setiap minggunya. Kemudian setelah UTS, munculnya pandemi COVID-19 menyebabkan kegiatan perkuliahan terganggu. Sehingga menyebabkan metode perkuliahan harus dilaksanakan secara online atau PJJ (Pembelajaran Jarak Jauh). Sebagai gantinya, dosen telah mempersiapkan playlist Youtube yang berisi video-video tentang penjelasan materi, penjelasan demo, dan beberapa latihan soal. Seluruh materi, informasi, dan latihan soal juga dapat diakses di https://os.vlsm.org/. Tugas log tetap dilaksanakan setiap minggunya. Metode absen dan tatap muka di kelas, yang biasanya dilakukan 2x seminggu, dialihkan dengan berdiskusi pada forum di scele dan juga repo github. Beberapa quiz juga berlangsung pada forum scele tersebut. Pengumuman mengenai tugas-tugas dan teknis ujian, disampaikan melalui whatsapp group. Ujian akhir semester pun dilaksanakan secara online , untuk lebih detilnya akan saya jelaskan dibawah.
+
+
+2) PELAKSANAAN PELAKSANAAN PENGAJARAN SEBELUM DAN SESUDAH UTS
+===============================================================
+Sebelum UTS :
+1. Pelaksanaan pengajaran dilakukan secara tatap muka di kelas, yang dimulai jam 08.00 tepat.
+
+2. Mahasiswa yang terlambat, diberikan kesempatan masuk saat pukul 08.15 atau 09.00.
+
+3. Materi dibahas tidak secara keseluruhan, hanya materi yang dianggap sulit dan belum dipahami oleh mahasiswa dan berlansung secara diskusi dua arah antara 
+dosen dan mahasiswa.
+
+4. Poin partisipasi diberikan ketika mahasiswa bertanya atau menjawab pada saat di kelas.
+
+5. Membuat Memo tiap minggunya yang berisi materi pengajaran pada minggu itu dan di scan barcode-nya.
+
+Sesudah UTS :
+1. Pelaksanaan pengajaran dilakukan secara online dan melalui video yang sudah tertera pada SCELE.
+
+2. Video-video yang tersedia, membahas mengenai materi-materi OS, penjelasan demo, dan pembahasan beberapa latihan soal.
+
+3. Absen dilakukan pada forum scele dan github.
+
+4. Tanya jawab berlangsung melalui forum scele.
+
+5. Informasi-informasi disampaikan hanya melalui group whatsapp.
+
+
+3) PERBANDINGAN UTS OS DENGAN UTS LAINNYA
+===============================================================
+UTS OS :
+1. Soal terdiri dari isian dan esai.
+
+2. Pelaksanaan ujian berbasis kertas.
+
+3. Bila dibandingkan dengan UTS OS tahun lalu, tahun ini lebih banyak soal dengan tipe programming. Selain itu, tidak ada soal tipe B/S atau PG seperti 
+soal - soal UTS tahun lalu.
+
+UTS lainnya :
+1. Soal mata kuliah Sistem Informasi Akuntansi hanya terdiri dari pilihan ganda.
+
+2. Soal mata kuliah Sistem-Sistem Perusahaan terdiri dari pilihan ganda, benar atau salah, dan esai
+.
+3. Soal mata kuliah Basis Data terdiri dari pilihan ganda dan esai.
+
+4. Soal mata kuliah Statistika dan Probabilitas dan Aljabar Linear berbentuk esai.
+
+5. Pelaksanaan ujian berlangsung pada scele.
+
+6. Untuk soal pilihan ganda dan benar/salah berbentuk kuis.
+
+7. Untuk soal esai dikerjakan pada kertas, lalu di foto dan di upload.
+
+8. Untuk pelaksanaan UTS Anum, tipe soal adalah essay dan membuat program.
+
+9. Untuk pelaksanaan UTS Advanced Programming, terdiri dari pilihan ganda, isian, dan mengedit program melalui GitLab.
+
+10. Untuk pelaksanaan UTS TBA, dilakukan melalui Aren. Soal berbentuk essay. Mahasiswa melakukan scan dan mengunggahnya ke server Aren.
+
+
+4) PERBANDINGAN UAS OS DENGAN UAS LAINNYA
+===============================================================
+UAS OS :
+1.Dilaksanakan dalam beberapa tahap (PAS0-PAS5). Yang dimulai tanggal 8 Juni sampai 7 Juli 2020.
+
+2. Setiap tahapnya memiliki waktu yang sangat panjang, dibandingkan dengan UAS mata kuliah lainnya
+3.Pengumuman terkait ujian diberikan melalui group Whatsapp setiap harinya..
+
+4. Metode pengumpulan yaitu dengan push file diperlukan ke repo github.
+
+5. Pengisian absen ujian juga dilakukan melalui github.
+
+6. Ada beberapa tahap yang diharuskan untuk dikerjakan secara berkelompok, pembentukkan kelompok dilakukan melalui github.
+
+7. Soal diunggah di github dan harus di-decrypt terlebih dahulu.
+
+8. Sebagian besar file yang di push harus di enkripsi terlebih dahulu. Beberapa file juga ada yang diminta untuk di tanda-tangan digital saat enkripsi. 
+ 
+9. Agar file yang diunggah ke repo tidak dapat dilihat oleh selain orang yang berhak untuk melihat, key enkripsi hanya dimiliki oleh peserta ujian 
+pembuat file dan dosen
+
+UAS lainnya :
+1. UAS mata kuliah lainnya hanya dilakukan 1 tahap saja dan dalam satu waktu.
+
+2. Soal mata kuliah lainnya berupa pg, isian singkat, dan esai.
+
+3. Setiap sesi pg, isian singkat maupun esai memiliki waktu pengerjaan yang pendek (tidak 1 jam per sesinya)
+
+4. Pelaksanaan UAS TBA menggunakan server aren. Soal pembuatan machine akan diterima oleh judge otomatis yang hasilnya akan keluar setelah ujian selesai, 
+sedangkan untuk soal essay akan upload hasil scan ke tempat yang sudah di sediakan.
+
+5. Pelaksanaan UAS Statprob dilaksanakan dalam total 3 jam, dengan dibagi menjadi beberapa tahap yang masing masing tahap akan keluar 1-3 soal yang dikerjakan 
+dengan kurun waktu 15-25 menit. Dalam pengerjaan, diawasi dengan kamera oncam yang menyala dengan pembatasan penggunaan alat elektronik selain laptop.
+
+6. Pelaksanaan UAS Basdat, tipe soal adalah pilihan ganda dan essay. Dilaksanakan dengan total 3 jam pengerjaan pada scele.cs.ui.ac.id. Untuk soal pilihan 
+ganda, nilai dapat langsung diketahui setelah submit.
+
+7. Pelaksanaan UAS SSP, tipe soal adalah pilihan ganda dan essay. Dilaksanakan dengan total 2 jam 45 menit pengerjaan pada scele.cs.ui.ac.id. 
+Pelaksanaan UAS SIAK, tipe soal adalah pilihan ganda dan essay. Dilaksanakan dengan total 3 jam pengerjaan pada scele.cs.ui.ac.id. Untuk soal pilihan 
+ganda, nilai dapat langsung diketahui setelah submit.
+
+8. Pelaksanaan UAS Adprog, tipe soal adalah pilihan ganda, essay, dan melengkapi program. Ketiga tiganya dilaksanakan dengan menggunakan scele.cs.ui.ac.id 
+dengan total waktu pengerjaan 3 jam.
+
+9. Pelaksanaan UAS SC, tipe soal adalah essay. Diberikan waktu 2 jam 45 menit untuk mengerjakan serta 15 menit untuk mengupload jawaban. Bersifat closed 
+book dengan sebelumnya membuat perjanjian untuk berlaku jujur selama ujian. Selama ujian, semua berkas perkuliahan yang ada di SCELE di hide.
+
+10. Pelaksanaan UAS Anum, tipe soal adalah essay dan membuat program. Soal essay dikelompokkan dengan topik masing-masing dengan tiap kelompok soal 
+terdiri atas banyak soal. Akan tetapi, tiap topik memiliki nilai maksimum sehingga tidak usah dikerjakan semuanya. Selain itu, terdapat banyak soal-soal 
+yang belum pernah diajarkan sebelumnya sehingga mahasiswa dituntut untuk mencari solusi di Google. Waktu pengerjaan adalah 3 jam.
