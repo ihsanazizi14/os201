@@ -1,8 +1,18 @@
+REV01 Mon Jul 27 22:34:55 WIB 2020
+==================================
 Muhammad Ihsan Azizi/A/1806186774/ihsanazizi14
 
 1) CATATAN SINGKAT PELAKSANAAN MATA AJAR OS SELAMA SEMESTER INI
 ===============================================================
-Pelaksanaan mata ajar OS selama semester ini dilakukan dengan dua metode. Yang pertama, dilakukan dengan metode tatap muka seperti kuliah pada umumnya, yang berlangsung di awal-awal semester sampai UTS. Setiap pertemuannya, dosen selalu menjelaskan materi-materi terkait, membahas soal-soal tahun lalu, ataupun membahas demo-demo yang sudah terdapat dalam server Badak. Mahasiswa juga diharuskan mengerjakan log secara rutin setiap minggunya. Kemudian setelah UTS, munculnya pandemi COVID-19 menyebabkan kegiatan perkuliahan terganggu. Sehingga menyebabkan metode perkuliahan harus dilaksanakan secara online atau PJJ (Pembelajaran Jarak Jauh). Sebagai gantinya, dosen telah mempersiapkan playlist Youtube yang berisi video-video tentang penjelasan materi, penjelasan demo, dan beberapa latihan soal. Seluruh materi, informasi, dan latihan soal juga dapat diakses di https://os.vlsm.org/. Tugas log tetap dilaksanakan setiap minggunya. Metode absen dan tatap muka di kelas, yang biasanya dilakukan 2x seminggu, dialihkan dengan berdiskusi pada forum di scele dan juga repo github. Beberapa quiz juga berlangsung pada forum scele tersebut. Pengumuman mengenai tugas-tugas dan teknis ujian, disampaikan melalui whatsapp group. Ujian akhir semester pun dilaksanakan secara online , untuk lebih detilnya akan saya jelaskan dibawah.
+Pelaksanaan mata ajar OS selama semester ini dilakukan dengan dua metode. Yang pertama, dilakukan dengan metode tatap muka seperti kuliah pada umumnya, 
+yang berlangsung di awal-awal semester sampai UTS. Setiap pertemuannya, dosen selalu menjelaskan materi-materi terkait, membahas soal-soal tahun lalu, 
+ataupun membahas demo-demo yang sudah terdapat dalam server Badak. Mahasiswa juga diharuskan mengerjakan log secara rutin setiap minggunya. Kemudian 
+setelah UTS, munculnya pandemi COVID-19 menyebabkan kegiatan perkuliahan terganggu. Sehingga menyebabkan metode perkuliahan harus dilaksanakan secara 
+online atau PJJ (Pembelajaran Jarak Jauh). Sebagai gantinya, dosen telah mempersiapkan playlist Youtube yang berisi video-video tentang penjelasan 
+materi, penjelasan demo, dan beberapa latihan soal. Seluruh materi, informasi, dan latihan soal juga dapat diakses di https://os.vlsm.org/. Tugas log 
+tetap dilaksanakan setiap minggunya. Metode absen dan tatap muka di kelas, yang biasanya dilakukan 2x seminggu, dialihkan dengan berdiskusi pada forum 
+di scele dan juga repo github. Beberapa quiz juga berlangsung pada forum scele tersebut. Pengumuman mengenai tugas-tugas dan teknis ujian, disampaikan 
+melalui whatsapp group. Ujian akhir semester pun dilaksanakan secara online, untuk lebih detilnya akan saya jelaskan dibawah.
 
 
 2) PELAKSANAAN PELAKSANAAN PENGAJARAN SEBELUM DAN SESUDAH UTS
