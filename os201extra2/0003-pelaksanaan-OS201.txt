@@ -1,3 +1,4 @@
+REV02 TUE Jul 28 22:51:20 QIB 2020
 REV01 Mon Jul 27 22:34:55 WIB 2020
 ==================================
 Muhammad Ihsan Azizi/A/1806186774/ihsanazizi14
@@ -52,25 +53,25 @@ UTS OS :
 soal - soal UTS tahun lalu.
 
 UTS lainnya :
-1. Soal mata kuliah Sistem Informasi Akuntansi hanya terdiri dari pilihan ganda.
+1. Pelaksanaan ujian berlangsung pada scele.
 
-2. Soal mata kuliah Sistem-Sistem Perusahaan terdiri dari pilihan ganda, benar atau salah, dan esai
+2. Untuk soal pilihan ganda dan benar/salah berbentuk kuis.
+
+3. Untuk soal esai dikerjakan pada kertas, lalu di foto dan di upload.
+
+4. Soal mata kuliah UTS Sistem Informasi Akuntansi hanya terdiri dari pilihan ganda.
+
+5. Soal mata kuliah UTS Sistem-Sistem Perusahaan terdiri dari pilihan ganda, benar atau salah, dan esai
 .
-3. Soal mata kuliah Basis Data terdiri dari pilihan ganda dan esai.
+6. Soal mata kuliah UTS Basis Data terdiri dari pilihan ganda dan esai.
 
-4. Soal mata kuliah Statistika dan Probabilitas dan Aljabar Linear berbentuk esai.
+7. Soal mata kuliah UTS Statistika dan Probabilitas dan Aljabar Linear berbentuk esai.
 
-5. Pelaksanaan ujian berlangsung pada scele.
+8. Soal mata kuliah UTS Anum, terdiri dari essay dan membuat program.
 
-6. Untuk soal pilihan ganda dan benar/salah berbentuk kuis.
+9. Soal mata kuliah UTS Advanced Programming, terdiri dari pilihan ganda, isian, dan mengedit program melalui GitLab.
 
-7. Untuk soal esai dikerjakan pada kertas, lalu di foto dan di upload.
-
-8. Untuk pelaksanaan UTS Anum, tipe soal adalah essay dan membuat program.
-
-9. Untuk pelaksanaan UTS Advanced Programming, terdiri dari pilihan ganda, isian, dan mengedit program melalui GitLab.
-
-10. Untuk pelaksanaan UTS TBA, dilakukan melalui Aren. Soal berbentuk essay. Mahasiswa melakukan scan dan mengunggahnya ke server Aren.
+10. Khusus mata kuliah UTS TBA, dilakukan melalui Aren. Soal berbentuk essay. Mahasiswa melakukan scan dan mengunggahnya ke server Aren.
 
 
 4) PERBANDINGAN UAS OS DENGAN UAS LAINNYA
