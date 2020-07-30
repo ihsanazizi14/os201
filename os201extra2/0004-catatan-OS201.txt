@@ -1,3 +1,6 @@
+REV01 THU Jul 30 21:40:25 WIB 2020
+==================================
+
 Muhammad Ihsan Azizi/A/1806186774/ihsanazizi14
 
 SUMBER
@@ -22,7 +25,7 @@ Kelebihan :
 - Terdapat log untuk memantau kesalahan
 
 Kekurangan :
-- Ada beberapa bahasan teori yang belumcukup familiar dengan para peserta.
+- Ada beberapa bahasan teori yang belumcukup familiar dengan para peserta
 - Kurangnya penjelasan mengenai tujuan persiapan dan gambaran pelaksanaan UAS
 - Langkah pengerjaan ditulis bergabung dengan penjelasan persiapan sehingga terlihat terlalu padat
 
@@ -32,7 +35,6 @@ Kendala :
 - Kemampuan penggunaan terminal pada linux yang kurang menghambat proses pengerjaan
 - Proses pembuatan script yang cukup sulit untuk dilakukan
 - Kendala koneksi internet yang dirasakan beberapa peserta
-- Server badak mengalami down pada jam tertentu
 
 Kelebihan :
 - Waktu yang diberikan cukup lama
@@ -46,19 +48,21 @@ Kelebihan :
 Kekurangan :
 - Kurang penjelasan terkait dengan soal yang dimaksud, beberapa seperti contoh SEQNO dan SUMNO yang tidak terdapat pada soal. Hal ini baru dapat diketahui setelah 
 terdapat mahasiswa yang menanyakan melalui forum di scele.
-- Tidak ada pemberitahuan bahwa file yang dibuat langsung dibuat dalam github.com, tanpa di-push 
-dari badak dapat menyebabkan Bad Signature saat di verifikasi dengan  key yang digunakan
+- Tidak ada pemberitahuan bahwa file yang dibuat langsung dibuat dalam github.com, (tanpa di-push 
+dari badak) dapat menyebabkan Bad Signature saat di verifikasi dengan  key yang digunakan
 - Deskripsi tugas seringkali berubah atau revisi selama proses ujian berlangsung
-- Berkas file yang dikumpulkan cukup banyak, sehingga harus dikerjakan dengan sangat teliti dan mengoreksinya se-sering mungkin.
+- Berkas file yang dikumpulkan cukup banyak, sehingga harus dikerjakan dengan sangat teliti dan mengoreksinya sesering mungkin
 
 
 1c) Tahap 2
 Kendala :
 - Perubahan yang cukup besar antara tahap 1 dengan tahap 2 yang ternyata tahap 2 jauh lebih rumit dibandingkan tahap 1, membuat mahasiswa kebingungan
 - Soal yang diberikan cukup sulit dan membutuhkan waktu yang lama untuk memahaminya
+- Kurang memahami materi dan sulit mengimplementasikan hal yg sudah dipelajari
 - Pada awal pengerjaan sangat terhambat pada implementasi mmap untuk multithreading yang tidak ada pada weekly demo
 - Beberapa peserta kebingungan jenis GPG apa yang harus digunakan
 - Kendala koneksi internet yang dirasakan beberapa peserta
+- Terjadi race condition saat mengumpulkan berkas, sehingga memakan cukup banyak waktu
 
 Kelebihan :
 - Membuat lebih mengerti bagaimana semafor bekerja untuk menghindari terjadinya race condition dalam mengakses memori yang sama bersamaan
@@ -77,14 +81,15 @@ Kekurangan :
 Tahap 3 merupakan pengembangan lebih lanjut dari tahap 2.
 
 Kendala :
-- Beberapa anggota kelompok tidak aktif berpartisipasi dan membantu mengerjakan soal.
+- Beberapa anggota kelompok tidak aktif berpartisipasi dan membantu mengerjakan soal
 - Sulit berkomunikasi dengan beberapa anggota kelompok, dikarenakan sudah dikelompokkan berdasarkan orang-orang yang lulus tahap 2 saja
-Kurang memahami materi dan sulit mengimplementasikan hal yg sudah dipelajari
+- Kurang memahami materi dan sulit mengimplementasikan hal yg sudah dipelajari
 - Soal yang diberikan cukup sulit dan membutuhkan waktu yang lama untuk memahaminya
 - Kendala koneksi internet yang dirasakan beberapa peserta
 
 Kelebihan :
 - Mahasiswa sudah terbiasa dengan tipe soal di tahap 3 ini. Karena mirip dengan tahap 2, maka sudah familiar sehingga lebih mudah untuk mengerjakan tahap 3
+- Beberapa method yang bisa diambil dan dimodifikasi dari soal tahap sebelumnya
 - Deadline yang lebih panjang untuk mahasiswa dengan status TERM3
 - Tugas dikerjakan secara berkelompok sehingga memudahkan mahasiswa untuk bekerja sama
 
@@ -94,22 +99,47 @@ Kekurangan
 - Sama seperti tahap II terkadang ada bagian yang penting tapi ambigu/kurang ditekankan, seperti penamaan file dan sebagainya.
 - Hanya satu file yang diedit sehingga sulit dalam pembagian tugas dengan anggota lain
 - Batas kurang jelas antara keterangan soal yang kurang jelas dengan "kreativitas masing masing" sehingga menimbulkan perdebatan
+- Deskripsi tugas seringkali berubah atau revisi selama proses ujian berlangsung
 
 
 1e) Tahap 4
-Kendala : 
+Kendala :
+- Ada beberapa mahasiswa yang belum cukup mengerti materi yang ditanyakan pada tahap ini
+- Adanya masalah koordinasi revisi sehingga ada perbedaan versi kode
+- File-file di folder uas-pribadi dan uas-bersama yang harus terus disesuaikan cukup membingungkan dan membuat beberapa mahasiswa harus terus-menerus cross check dengan repository cbkadal
+- Kendala koneksi internet yang dirasakan beberapa peserta
 
 Kelebihan : 
+- Tugas dikerjakan secara berkelompok sehingga memudahkan mahasiswa untuk bekerja sama
+- Tersedianya penjelasan yang mendetail dari Pak RMS mengenai tugas ini
+- Tugas relatif seru karena tantangan yang diterima
+- Beberapa method yang bisa diambil dan dimodifikasi dari soal tahap sebelumnya
 
 Kekurangan : 
+- Hanya satu file yang diedit sehingga sulit dalam pembagian tugas dengan anggota lain
+- Requirement soal agak kurang dijabarkan. Di soal, dikatakan bisa menggunakan implementasi sendiri, tetapi jika implementasinya beda, nilai akan dikurangi.
+- Waktu yang diberikan tidak sebanyak tugas-tugas sebelumnya.
+- Lompatan materi yang lumayan besar dari tahap sebelumnya.
 
 
 1f) Tahap 5
 Kendala :
+- Kurang pemahaman tentang FUSE
+- Kurang mengerti perintah soal dan sulit memahami berkas-berkas yang diberikan
 
 Kelebihan :
+- Menjadi lebih tahu salah satu implementasi FUSE
+- Termasuk mudah apabila sudah mengerti materi FUSE
+- Adanya dokumentasi yang diberikan dengan lengkap dan jelas
 
 Kekurangan :
+- Kurangnya penjelasan teknis
+- Dokumentasi terkait soal yang diberikan sulit dimengerti
+- Perubahan jenis tugas dari kelompok menjadi individu di mana pada tahap 2 - 4 
+- Waktu pengerjaan yang cukup singkat
+- Perubahan bobot nilai menjadi bergantung pada hasil pekerjaan
+- Sumber belajar yang hanya langsung melihat contoh dari implementasi FUSE dan agak membingungkan
+
 
 
 2) BERIKAN PENJELASAN (DUGAAN) BERIKUT INI :
@@ -191,4 +221,6 @@ dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada.
 3) BAHAS DARI SUDUT PANDANG, PESERTA OS201, BERKAS BERIKUT IN :
 https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 ==========================================
+
+3a) Tantangan
 
