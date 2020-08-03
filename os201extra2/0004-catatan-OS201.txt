@@ -1,3 +1,4 @@
+REV02 MON Aug 03 23:40:45 WIB 2020
 REV01 THU Jul 30 21:40:25 WIB 2020
 ==================================
 
@@ -223,4 +224,45 @@ https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 ==========================================
 
 3a) Tantangan
+Pelaksanaan ujian secara online, akan jauh lebih sulit dan tidak se-efektif ketika dilaksanakan secara langsung. Sehingga dibutuhkan sistem & mekanisme yang 
+harus dipersiapkan sebaik mungkin. Salah satu tantangannya, seperti yang tertera dalam blog Pak Rahmat, yaitu kecenderungan hasil ujian yang sama dan merata, 
+juga tidak dapat dipastikan apakah masing-masing mahasiswa betul-betul mengerjakan ujiannya secara jujur.
+
+Sehingga salah satu solusi yang dilakukan Pak Rahmat ialah melakukan modifikasi terhadap tata cara pengumpulan hasil ujian berhasil dilakukan sehingga membuat 
+ujian menjadi lebih sulit. Kesalahan prosedur yang dilakukan peserta menjadi salah satu kendala yang banyak dialami peserta. Hal ini menyebabkan peserta 
+yang seharusnya dapat lolos suatu tahap menjadi berhenti di tahap tersebut walaupun diberi kesempatan mengulang tahap yang gagal. Terlalu banyak 
+prosedural juga membuat semakin lama waktu peserta untuk mengikuti prosedur tersebut dibandingkan mengerjakan soal yang diberikan. 
+ 
+3b) Problem
+- Kendala koneksi internet yang dirasakan beberapa peserta
+
+- Beberapa mahasiswa tidak mengerti untuk melakukan hal-hal teknis yang dibutuhkan dalam ujian seperti membuat key dan enkripsi
+
+- Ada beberapa bahasan teori yang belumcukup familiar dengan para peserta
+
+- Tidak ada pemberitahuan bahwa file yang dibuat langsung dibuat dalam github.com, (tanpa di-push  dari badak) dapat menyebabkan 
+Bad Signature saat di verifikasi dengan  key yang digunakan
+
+- Deskripsi tugas seringkali berubah atau revisi selama proses ujian berlangsung
+
+- Berkas file yang dikumpulkan cukup banyak, sehingga harus dikerjakan dengan sangat teliti dan mengoreksinya sesering mungkin
+
+- Beberapa anggota kelompok tidak aktif berpartisipasi dan membantu mengerjakan soal
+
+- Peserta tidak biasa dalam penggunaan sistem di badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format text berbeda dengan 
+sistem di badak.
+
+- Terjadi race condition saat mengumpulkan berkas, sehingga memakan cukup banyak waktu
+
+3c) Study From Home
+Pembelajaran mata kuliah OS yang dilaksanakan secara daring selama satu semester ini, sangat kurang efektif. Dikarenakan kurangnya intensitas penjelasan terkait 
+materi-materi yang ada. Walaupun telah tersedia video mengenai penjelasan beberapa materi, banyak dari kami yang kesulitan untuk memahami-nya, ditambah tidak 
+ada interaksi langsung antara dosen dan mahasiswa saat penjelasan materi, sehingga sesi tanya jawab-pun tidak bisa dilakukan. Ditambah, tidak semua mahasiswa rutin 
+menonton video penjelasan di youtube dan mencoba demo secara mandiri.
+
+3d) Windows 10 & Font
+Beberapa peserta tidak biasa dalam penggunaan sistem di badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format text berbeda 
+dengan sistem di badak.
+
+3e) WhatsApp Group
 
