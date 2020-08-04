@@ -1,4 +1,4 @@
-REV03 TUE Aug 04 22:10:15 WIB 2020
+REV03 TUE Aug 04 22:14:05 WIB 2020
 REV02 MON Aug 03 23:40:45 WIB 2020
 REV01 THU Jul 30 21:40:25 WIB 2020
 ==================================
@@ -284,8 +284,10 @@ Salah satu problem yang dialami oleh beberapa mahasiswa ialah terkadang harus me
 kadang peserta kebingungan apakah memang Github page nya belum ke load atau salah pada code yang ditulis.
 
 3i) GNUPG
-GnuPG digunakan untuk melakukan proses enkripsi data, dekripsi data , dan penandatanganan digital pada berkas-berkas yang ada. Namun banyak dari kami yang bingung terhadap versi gpg yang digunakan. Dalam deskripsi soal juga tidak dijelaskan secara detail mengenai hal itu. Selain itu, banyak juga yang bingung untuk memahami perbedaan enkripsi dengan atau tanpa sign digital. Beberapa peserta juga banyak yang melakukan kesalahan pada berkas 0000-mypub.txt, seperti mencantumkan lebih 
-dari 1 key, malah mencantumkan private key, dan lain-lain.
+GnuPG digunakan untuk melakukan proses enkripsi data, dekripsi data, dan penandatanganan digital pada berkas-berkas yang ada. Namun banyak dari kami yang 
+bingung terhadap versi gpg yang digunakan. Dalam deskripsi soal juga tidak dijelaskan secara detail mengenai hal itu. Selain itu, banyak juga yang bingung 
+untuk memahami perbedaan enkripsi dengan atau tanpa sign digital. Beberapa peserta juga banyak yang melakukan kesalahan pada berkas 0000-mypub.txt, 
+seperti mencantumkan lebih dari 1 key, malah mencantumkan private key, dan lain-lain.
 
 3j) Scripting
 Banyak dari peserta yang tidak memahami maksud dari langkah-langkah scripting sebelumnya, sehingga peserta hanya mengikuti langkah-langkah yang diberikan dengan cara copy and paste. 
@@ -304,7 +306,9 @@ terhapus, maka peserta masih memiliki cadangan berkas tersebut.
 Pembentukkan kelompok saat memasuki tahap-2, dirasa kurang efektif, dikarenakan peserta harus menunggu aba-aba dari dosen untuk dapat mendaftarkan diri dalam kelompoknya. Selain itu, penjelasan teknis pembentukkan kelompok tersebut juga kurang jelas untuk dipahami.
 
 3o) Akun GitHub os201 Bersama
-Dalam repo os201 bersama, para mahasiswa diharuskan untuk membuat folder sesuai dengan nama akun github nya masing-masing, yang nantinya akan digunakan untuk pengumpulan file. Repo ini juga berfungsi untuk absen dan pembentukkan kelompok saat UAS. Kekurangan dari adanya repo ini yaitu sering terjadi race condition dalam melakukan push file, sehingga akan memakan cukup banyak waktu.
+Dalam repo os201 bersama, para mahasiswa diharuskan untuk membuat folder sesuai dengan nama akun github nya masing-masing, yang nantinya akan digunakan 
+untuk pengumpulan file. Repo ini juga berfungsi untuk absen dan pembentukkan kelompok saat UAS. Kekurangan dari adanya repo ini yaitu sering terjadi race 
+condition dalam melakukan push file, sehingga akan memakan cukup banyak waktu.
 
 3p) SHA1SUM dan SHA1SUM.asc
 Mayoritas mahasiswa juga belum mengerti fungsi dari SHA1SUM dan SHA1SUM.asc itu sendiri, sehingga untuk membuat kedua berkas tersebut, hanya mengikuti instruksi yang 
