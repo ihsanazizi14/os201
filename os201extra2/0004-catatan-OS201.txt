@@ -1,3 +1,4 @@
+REV03 TUE Aug 04 22:10:15 WIB 2020
 REV02 MON Aug 03 23:40:45 WIB 2020
 REV01 THU Jul 30 21:40:25 WIB 2020
 ==================================
@@ -219,7 +220,7 @@ dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada.
 
 
 
-3) BAHAS DARI SUDUT PANDANG, PESERTA OS201, BERKAS BERIKUT IN :
+3) BAHAS DARI SUDUT PANDANG, PESERTA OS201, BERKAS BERIKUT INI :
 https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 ==========================================
 
@@ -265,4 +266,49 @@ Beberapa peserta tidak biasa dalam penggunaan sistem di badak. Oleh karena itu, 
 dengan sistem di badak.
 
 3e) WhatsApp Group
+Whatsapp group digunakan untuk penyampaian informasi terkait materi, demo, maupun ujian selama pelaksanaan PJJ OS di satu semester kemarin. Penggunaan whatsapp 
+group ini sangat bermanfaat bagi para mahasiswa, karena apabila ada suatu pengumuman dari Pak RMS, kami langsung mendapat notifikasi dari pengumuman tersebut. Disisi 
+lain apabila pengumuman hanya disampaikan melalui scele, diharuskan untuk mengecek-nya secara rutin karena tidak ada notifikasi langsung dan tidak se-efektif Whatsapp group.
 
+3f) Youtube
+Materi yang disampaikan mudah diterima, namun kurang banyak contoh demo yang diberikan. Contoh demo akan sangat berguna untuk pemahaman saat pelaksanaan UAS 
+seperti pada mata kuliah OS genap 2020.
+
+3g) Github
+Github menjadi platform utama bagi mahasiswa untuk mengumpulkan berkas-berkas selama pembelajaran OS kemarin, baik pengumpulan log per-week, quiz, maupun UAS. Absen pun juga dilakukan pada berkas di github. Sehingga ada dua repo yang merupakan tempat pengumpulan berkas tersebut, yaitu repo pribadi/os201 dan repo bersama/os201. 
+Salah satu problem dalam penggunaan github ialah pada saat melakukan push kadang bebarengan dengan orang lain sehingga harus berulang ulang melakukan push.
+
+3h) Github page
+Masih terdapat banyak mahasiswa yang belum mengetahui tentang Github pages dan apa fungsinya. Sehingga diharuskan untuk sedikir explore tentang materi tersebut. 
+Salah satu problem yang dialami oleh beberapa mahasiswa ialah terkadang harus menunggu agak lama agar perubahan yang dilakukan pada Github page nampak, jadi 
+kadang peserta kebingungan apakah memang Github page nya belum ke load atau salah pada code yang ditulis.
+
+3i) GNUPG
+GnuPG digunakan untuk melakukan proses enkripsi data, dekripsi data , dan penandatanganan digital pada berkas-berkas yang ada. Namun banyak dari kami yang bingung terhadap versi gpg yang digunakan. Dalam deskripsi soal juga tidak dijelaskan secara detail mengenai hal itu. Selain itu, banyak juga yang bingung untuk memahami perbedaan enkripsi dengan atau tanpa sign digital. Beberapa peserta juga banyak yang melakukan kesalahan pada berkas 0000-mypub.txt, seperti mencantumkan lebih 
+dari 1 key, malah mencantumkan private key, dan lain-lain.
+
+3j) Scripting
+Banyak dari peserta yang tidak memahami maksud dari langkah-langkah scripting sebelumnya, sehingga peserta hanya mengikuti langkah-langkah yang diberikan dengan cara copy and paste. 
+
+3k) Email
+Email digunakan untuk komunikasi antara dosen dan mahasiswa yang pertanyaan-pertanyaan nya bersifat pribadi. Untuk konteks pertanyaan yang general, mahasiswa diharuskan bertanya melalui forum di Scele saja.
+
+3l) Zoom
+Penggunaan zoom hanya dilakukan beberapa kali, yaitu untuk sesi tanya jawab saat persiapan menuju pelaksanaan UAS kemarin. Namun, peserta yang hadir cenderung sedikit.
+
+3m) Outside
+Selain bekerja dalam GIT, beberapa mahasiswa juga ada yang menggunakan tempat kerja luar GIT, satu alasannya agar memiliki cadangan berkas. Apabila berkas di git 
+terhapus, maka peserta masih memiliki cadangan berkas tersebut.
+
+3n) Pembentukkan kelompok
+Pembentukkan kelompok saat memasuki tahap-2, dirasa kurang efektif, dikarenakan peserta harus menunggu aba-aba dari dosen untuk dapat mendaftarkan diri dalam kelompoknya. Selain itu, penjelasan teknis pembentukkan kelompok tersebut juga kurang jelas untuk dipahami.
+
+3o) Akun GitHub os201 Bersama
+Dalam repo os201 bersama, para mahasiswa diharuskan untuk membuat folder sesuai dengan nama akun github nya masing-masing, yang nantinya akan digunakan untuk pengumpulan file. Repo ini juga berfungsi untuk absen dan pembentukkan kelompok saat UAS. Kekurangan dari adanya repo ini yaitu sering terjadi race condition dalam melakukan push file, sehingga akan memakan cukup banyak waktu.
+
+3p) SHA1SUM dan SHA1SUM.asc
+Mayoritas mahasiswa juga belum mengerti fungsi dari SHA1SUM dan SHA1SUM.asc itu sendiri, sehingga untuk membuat kedua berkas tersebut, hanya mengikuti instruksi yang 
+diberikan dosen.
+
+3q) Absen
+Absen dilakukan pada Scele dan juga github. Namun, para mahasiswa tidak mengetahui batas akhir diperbolehkannya mengisi absen tersebut, sehingga banyak dari kami yang menundanya. Selain itu, problem saat mengisi absen ialah terjadi race condition saat mengumpulkan berkas, sehingga harus merevisinya berulang kali.
