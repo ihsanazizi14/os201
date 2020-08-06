@@ -1,3 +1,4 @@
+REV04 THU Aug 06 21:46:25 WIB 2020
 REV03 TUE Aug 04 22:14:05 WIB 2020
 REV02 MON Aug 03 23:40:45 WIB 2020
 REV01 THU Jul 30 21:40:25 WIB 2020
@@ -157,7 +158,8 @@ Bash Linux tersedia di hampir semua varian Linux dan tidak memerlukan instalasi 
 dan untuk menyelesaikan script dapat menggunakan command "exit" dan hasil script sudah tersimpan pada file baru tadi.
 
 2b) FUSE 
-FUSE adalah singkatan dari Filesystem in Userspace merupakan suatu software interface pada UNIX. Fitur paling penting dari FUSE adalah FUSE memperbolehkan 
+FUSE adalah singkatan dari Filesystem in Userspace merupakan suatu software interface pada UNIX yang memungkinkan non-privileged usernya membuat 
+filesystem mereka sendiri tanpa harus mengedit kernel code nya. Fitur paling penting dari FUSE adalah FUSE memperbolehkan 
 non-privileged user untuk melakukan mount dengan aman. Biasanya FUSE digunakan untuk membuat virtual file system.  Untuk membuat FUSE ada 3 hal yang harus 
 dibuat, yaitu kernel side module, libfuse, dan aplikasinya
 
@@ -165,7 +167,7 @@ Untuk mengimplementasikan file system kita harus menulis program terlebih dahulu
 merespon jika ada operasi read/write/stat dan program ini juga akan akan tertaut dengan libfuse. Ketika filesyetem berhasil di mount, handler akan 
 teregister dengan kernel dan meneruskan operasi read/write/stat/ kepada handler untuk dilakukan respon terhadap operasi tersebut.
 
-2c) Git (blm selesai wait)
+2c) Git
 Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama. Fungsi utama git yaitu mengatur versi 
 dari source code program Anda dengan mengasih tanda baris dan code mana yang ditambah atau diganti.
 Perintah-perintah dasar git:

@@ -1,4 +1,5 @@
-REV02 TUE Jul 28 22:51:20 QIB 2020
+REV03 THU Aug 06 21:52:05 WIB 2020
+REV02 TUE Jul 28 22:51:20 WIB 2020
 REV01 Mon Jul 27 22:34:55 WIB 2020
 ==================================
 Muhammad Ihsan Azizi/A/1806186774/ihsanazizi14
@@ -124,3 +125,9 @@ book dengan sebelumnya membuat perjanjian untuk berlaku jujur selama ujian. Sela
 10. Pelaksanaan UAS Anum, tipe soal adalah essay dan membuat program. Soal essay dikelompokkan dengan topik masing-masing dengan tiap kelompok soal 
 terdiri atas banyak soal. Akan tetapi, tiap topik memiliki nilai maksimum sehingga tidak usah dikerjakan semuanya. Selain itu, terdapat banyak soal-soal 
 yang belum pernah diajarkan sebelumnya sehingga mahasiswa dituntut untuk mencari solusi di Google. Waktu pengerjaan adalah 3 jam.
+
+
+5) Saran Pelaksanaan OS201
+===============================================================
+Penggunaan Zoom untuk tanya jawab demo dan materi. Salah satu contohnya mata kuliah Statistika dan Probabilitas yang mengadakan zoom meeting setiap waktu 
+perkuliahan dan melakukan perekaman video
